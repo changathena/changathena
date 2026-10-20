@@ -3,10 +3,7 @@
 </div>
 
 <hr>
-<h1 align="center">
-  Athena Chang
-</h1>
-</hr>
+<h1 align="center">Athena Chang</h1>
 
 ### ♡ About Me
 <table>
