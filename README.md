@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td width="30%">
-      <img src="img1.jpg" alt=icon_1>
+      <img src="img1.jpg" alt="icon_1">
     </td>
     <td width="100%">
       <b>Hi, I'm Athena!</b>
@@ -42,7 +42,7 @@
       </ul>
     </td>
     <td width="20%">
-      hi
+      <img src="img5.jpg" alt="icon_2">
     </td>
   </tr>
 </table>
