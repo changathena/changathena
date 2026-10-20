@@ -33,16 +33,16 @@
 ### ♡ Projects
 <table>
   <tr>
-    <td width="100%">
+    <td width="70%">
       <ul>
-        <li>hi</li>
-        <li>hi</li>
-        <li>hi</li>
-        <li>hi</li>
+        <li><a href="https://master.her-med.pages.dev/"><b>Medical Symptom Analyzer</b></a>: An AI-assisted web app that analyzes user symptoms and ZIP code to provide local medical resources.</li>
+        <li><a href="https://srgb-image-processor.onrender.com/"><b>sRGB Image Processor</b></a>: Web app that uses a NumPy array to load an image to compute the mean intensity per RGB channel.</li>
+        <li>Project 3 Placeholder Text</li>
+        <li>Project 4 Placeholder Text</li>
       </ul>
     </td>
-    <td width="20%">
-      <img src="img5.jpg" alt="icon_2">
+    <td width="30%">
+      <img src="img5.jpg" alt="icon_2" width="100%">
     </td>
   </tr>
 </table>
