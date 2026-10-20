@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img3.jpg" alt="banner">
+  <img src="img3.jpg" alt="banner" width="1000">
 </div>
 
 <hr>
@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td width="30%">
-      Hi, I'm Athena!
+      <img src="img1.jpg" alt=icon_1>
     </td>
     <td width="100%">
       <b>Hi, I'm Athena!</b>
