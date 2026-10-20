@@ -30,7 +30,7 @@
   </tr>
 </table>
 
-### ♡ Projects
+### ♡ Current Projects
 <table>
   <tr>
     <td width="70%">
