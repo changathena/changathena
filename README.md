@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="img3.jpg" alt="banner">
+</div>
+
 <hr>
 <h1 align="center">
   Athena Chang
