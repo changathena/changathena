@@ -37,8 +37,8 @@
       <ul>
         <li><a href="https://master.her-med.pages.dev/"><b>Medical Symptom Analyzer</b></a>: An AI-assisted web app that analyzes user symptoms and ZIP code to provide local medical resources.</li>
         <li><a href="https://srgb-image-processor.onrender.com/"><b>sRGB Image Processor</b></a>: Web app that uses a NumPy array to load an image to compute the mean intensity per RGB channel.</li>
-        <li>Project 3 Placeholder Text</li>
-        <li>Project 4 Placeholder Text</li>
+        <li>AI Heart Rate Monitor: Heart monitor that uses Artificial Intelligence to analyze heart rate in real-time.</li>
+        <li>Solar-powered Illuminator Model: Lighting prototype using a light sensor and rechargeable battery that automatically turns on in low-light conditions.</li>
       </ul>
     </td>
     <td width="30%">
@@ -51,4 +51,5 @@
 <div align="center">
   <a href="https://github.com/changathena"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/chang-athena-wy/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:changathena@outlook.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
