@@ -32,7 +32,7 @@
   <tr>
     <td width="70%">
       <ul>
-        <li><a href="https://master.her-med.pages.dev/"><b>Medical Symptom Analyzer</b></a>: An AI-assisted web app that analyzes user symptoms and ZIP code to provide local medical resources.</li>
+        <li><a href="https://her-med.com/"><b>Medical Symptom Analyzer</b></a>: An AI-assisted web app that analyzes user symptoms and ZIP code to provide local medical resources.</li>
         <li><a href="https://srgb-image-processor.onrender.com/"><b>sRGB Image Processor</b></a>: Web app that uses a NumPy array to load an image to compute the mean intensity per RGB channel.</li>
         <li>AI Heart Rate Monitor: Heart monitor that uses Artificial Intelligence to analyze heart rate in real-time.</li>
         <li>Solar-powered Illuminator Model: Lighting prototype using a light sensor and rechargeable battery that automatically turns on in low-light conditions.</li>
