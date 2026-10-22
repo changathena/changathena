@@ -8,7 +8,7 @@
 ### ♡ About Me
 <table>
   <tr>
-    <td width="30%">
+    <td width="35%">
       <img src="img1.jpg" alt="icon_1">
     </td>
     <td width="100%">
