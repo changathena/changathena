@@ -14,9 +14,9 @@
     <td width="100%">
       <b>Hi, I'm Athena!</b>
       <br></br>
-      I'm an Electrical Engineering student at Purdue University interested in embedded systems and circuit design.
+      I'm an Electrical Engineering student at Purdue University interested in embedded systems and circuit design. Currently, I'm working on Medical Symptom Analyzer for Purdue EPICS as well as sRGB Image Processor.
       <br></br>
-      Currently, I'm working on Medical Symptom Analyzer for Purdue EPICS as well as sRGB Image Processor in my free time.
+      In my free time, you can find me probably playing video games or napping!
       <br></br>
       My skills:
       <br></br>
