@@ -16,7 +16,7 @@
       <br></br>
       I'm an Electrical Engineering student at Purdue University interested in embedded systems and circuit design. Currently, I'm working on Medical Symptom Analyzer for Purdue EPICS as well as sRGB Image Processor.
       <br></br>
-      In my free time, you can find me probably playing video games or napping!
+      Fun fact: My favorite video game is Needy Streamer Overload (this GitHub profile is based on it)!
       <br></br>
       My skills:
       <br></br>
